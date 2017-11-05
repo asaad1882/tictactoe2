@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+    <player id="1"
+           userName="Annabel"
+           email="Annabel@Annabel.co"
+           password="$2a$10$IN84.M8Xl0NMav6rK/4BuuuhIndLG5grePxjxs2paMN7YDmaO/sXq"
+          />
+    <player id="2"
+           userName="David"
+           email="David@David.com"
+           password="$2a$10$5EDij0tSEBI0BAXW6Ru/4.0W4aZcFngH33EtvQYtdC2ev1XAIOroC"
+        />
+</dataset>
